@@ -1,0 +1,5 @@
+allocated 16384
+allocated 2048
+free 2048
+allocated 4096
+allocated 8192
